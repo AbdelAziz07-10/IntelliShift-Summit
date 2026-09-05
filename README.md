@@ -83,12 +83,16 @@ Focuses on macro-level business health, overall revenue trajectories, and produc
 
 ### 2. Supply Chain & Operations Dashboard
 
+![ScreenShot of Customer Intelligence & Segmentation](2.jpeg)
+
 Delivers granular operational visibility into shipping bottlenecks, delivery modes, and geographic fulfillment efficiency.
 
 * Top KPIs: Overall Average Shipping Days (9.18 days), True Average Excluding Outliers (4.12 days), Total Delayed Orders (~3K), and Maximum Delivery Delay (214 days).
 * Visuals: Average Shipping Days by Ship Mode Clustered Bar Chart, Geographic Bubble Map for state delays, and State Bottleneck Matrix highlighting Wyoming (153-day average).
 
 ### 3. Customer Intelligence & Segmentation Dashboard
+
+![ScreenShot of Strategic Executive Performance](3.jpeg)
 
 Analyzes customer purchasing dynamics, high-value account retention, and product affinity by segment.
 
