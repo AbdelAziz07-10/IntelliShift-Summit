@@ -63,6 +63,8 @@ Formulated 6 data-backed strategic recommendations covering supply chain audits,
 
 ## Database Architecture & Normalization
 
+![ScreenShot of Schema](schema-RetailSupplyChain.png)
+
 To eliminate data redundancy and support real-time analytical processing, the backend architecture was divided into two core environments:
 
 * Operational Database (OLTP / 3NF): Decomposed flat-file data into Third Normal Form across distinct entities (`Customers`, `Locations`, `Products`, `Orders`, `OrderDetails`) to enforce referential integrity and eliminate update anomalies.
